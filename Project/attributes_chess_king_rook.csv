@@ -1,0 +1,8 @@
+name,type,description
+white_king_file,string,Column location on the chess board of the white king
+white_king_rank,string,Row location on the chess board of the white king
+white_rook_file,string,Column location on the chess board of the white rook
+white_rook_rank,string,Row location on the chess board of the white rook
+black_king_file,string,Column location on the chess board of the black king
+black_king_rank,string,Row location on the chess board of the black king
+result,string,"Predictor Class. optimal depth-of-win for White in 0 to 16 moves, otherwise drawn Values: {draw, zero, one, two, ..., sixteen}"

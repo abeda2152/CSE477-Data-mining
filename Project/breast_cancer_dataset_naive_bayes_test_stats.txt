@@ -1,0 +1,7 @@
+----------------------------------------------------------
+Naive Bayes Summary Statistics (Testing)
+----------------------------------------------------------
+Data Set : breast_cancer_dataset.txt
+
+Number of Test Instances : 231
+Accuracy : 96.1038961038961%
